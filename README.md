@@ -1,1 +1,1 @@
-# Artificial_lift_method_in_deliquification_of_gas_well
+# Artificial_lift_method_for_deliquification_of_gas_well
